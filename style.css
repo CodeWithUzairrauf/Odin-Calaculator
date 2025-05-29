@@ -1,0 +1,22 @@
+body{
+padding: 10px;
+  border: solid 1px red;
+  position: fixed;
+  margin: 300px;
+}
+
+.calc-screen{
+   padding: 10px;
+   border: solid 1px black;
+   
+}
+
+.calc-btns{
+    margin: 10px;
+}
+
+.block{
+    display:block;
+    position: relative;
+    padding: 4px;
+}
